@@ -61,6 +61,6 @@ services:
         max-file: "10"
 volumes:
   artifactory_data:
-    external: true
+    external: false
   postgres_data:
-    external: true
+    external: false
