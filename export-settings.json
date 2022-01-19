@@ -1,0 +1,12 @@
+{
+  + "exportPath" : "/export/path" (A path to a directory on the local file system of Artifactory server),
+  - "includeMetadata" : true (default),
+  - "createArchive" : false (default),
+  - "bypassFiltering" : false (default),
+  - "verbose" : false (default),
+  - "failOnError" : true (default),
+  - "failIfEmpty" : true (default),
+  - "m2" : false (default),
+  - "incremental" : false (default),
+  - "excludeContent" : false (default)
+}
